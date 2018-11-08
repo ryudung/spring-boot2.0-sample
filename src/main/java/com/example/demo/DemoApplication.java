@@ -17,6 +17,6 @@ public class DemoApplication {
 
 	@GetMapping("")
 	public String test(){
-		return "Hello, Spring Boot 2.0";
+		return "send notify";
 	}
 }
