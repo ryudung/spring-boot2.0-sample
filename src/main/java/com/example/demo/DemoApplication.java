@@ -17,6 +17,6 @@ public class DemoApplication {
 
 	@GetMapping("")
 	public String test(){
-		return "send notify";
+		return "retry send notify";
 	}
 }
